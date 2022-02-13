@@ -13,7 +13,7 @@ este curso ha sido de mucha ayuda para poder visualizarme en lo siguientes retos
 me siento muy entusiasmado por lo que sigue, y no nos vamos a rendir hasta volvernos la mejor
 versión de nosotros mismos.
 
-![giphy (2)](https://user-images.githubusercontent.com/99152739/153778123-d9efebe9-c500-48ba-b390-c1f01a8ada0f.gif)
+
 
 
 
@@ -22,3 +22,6 @@ versión de nosotros mismos.
 
            "Ya hemos demostrado que lo más dificil era llegar a la luna 
               y sin embargo lo conseguimos..."
+
+
+![giphy (2)](https://user-images.githubusercontent.com/99152739/153778123-d9efebe9-c500-48ba-b390-c1f01a8ada0f.gif)
